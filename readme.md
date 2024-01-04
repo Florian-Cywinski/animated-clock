@@ -2,6 +2,8 @@
 
 Vanilla JS app that displays the current time by using canvas  - from Brad Trversy's 'Modern JS From The Beginning' course.
 
+Furthermore, various colors can be adapted to the clock. The clock created in this way can then be saved as an png image file.
+
 Try out the app :) - https:
 
 1. Setup canvas
